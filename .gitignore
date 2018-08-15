@@ -4,3 +4,8 @@ dataset/
 .DS_Store
 examples/.DS_Store
 examples/.DS_Store
+false_positive_frames/
+false_positive_samples/
+hard_mining/
+test_flase_positive/
+resized_false_positive_samples/
